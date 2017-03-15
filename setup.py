@@ -40,7 +40,6 @@ for subpackage in ['antialias', 'arrowheads', 'arrows', 'collections',
 
 install_requires = ['numpy',
                     'pyopengl',
-                    'glueviz>=0.10',
                     'qtpy',
                     'scipy',
                     'astropy>=1.1']
